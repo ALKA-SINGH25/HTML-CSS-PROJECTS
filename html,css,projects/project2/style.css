@@ -1,0 +1,22 @@
+.orange{
+    background:  #FF671F;
+    height: 100px;
+    margin-left: 100px;
+    margin-right: 100px;
+}
+.white{
+    background: #FFFFFF ;
+    height: 100px;
+    margin-left: 100px;
+    margin-right: 100px;
+}
+.green{
+    background: #046A38;
+   height: 100px;
+   margin-left: 100px;
+    margin-right: 100px;
+}
+
+img{
+    margin-left: 400px;
+}
